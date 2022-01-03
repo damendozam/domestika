@@ -11,87 +11,61 @@ html
 {
 	width: auto;
 	height: 80px;
-	
-	border: 3px solid red;
 }
 .sec
 {
 	width: auto;
 	height: 160px;
-	margin-top: 10px;
-	/*float: left;*/
-	
-	
-	border: 3px solid red;
-}
-
-#sec1
-{
-	background-color: rgb(58,80,98);
-}
-#sec2
-{
-	background-color: rgb(58,80,98);
-}
-#sec3
-{
-	width: 48%;
-	background-color: green;
-	float: left;
-}
-#sec4
-{
-	width: 48%;
-	background-color: orange;
-	float: right;
-}
-#sec5
-{
-	width: auto;
-	margin-top: 10px;
-	background-color: rgb(58,80,98);
-	overflow: hidden;
-}
-/*.sec
-{
-	background-color: rgb(58,80,98);
-	position: absolute;
+	margin-top: 10px;	
 	
 }
 
-.part
+
+.head span
 {
+	display: block;
+	background-color: rgb(58,80,98);
+	height: 75px;
+}
+
+
+.sec span
+{
+	display: block;
+	background-color: rgb(58,80,98);
 	position: relative;
+	left: 0px;
+	right: 0px;	
+	height: 155px;
+}
+
+#sec1 span#box1
+{
+	display: block;
 	float: left;
+	width: 48%;
+	height: 154px;
 }
-#sec1
+
+#sec1 span#box2
 {
-	left: 20px;
-	right: 20px;
-	top: 20px;
-	height: 80px;
+	display: block;
+	float: right;
+	width: 48%;
+	height: 154px;
 }
-#sec2
+#sec2 span#box1
 {
-	left: 20px;
-	right: 20px;
-	top: 120px;
-	height: 160px;
+	display: block;
+	float: left;
+	width: 48%;
+	height: 154px;
 }
-#sec3
+
+#sec2 span#box2
 {
-	left: 20px;
-	right: 20px;
-	top: 300px;
-	height: 160px;
+	display: block;
+	float: right;
+	width: 48%;
+	height: 154px;
 }
-#sec4
-{
-	width: 10%;
-	height: 160px;
-}
-#sec5
-{
-	width: 10%;
-	height: 160px;
-}*/
