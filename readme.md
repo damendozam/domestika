@@ -1,4 +1,4 @@
-## PROYECTO 4.1
-Esta es la practica de html y css de la practica propuesta en el curso de domestica
+## PROYECTO 5.2
+Se realiza una inserción de una imagen que cambia su opacidad al moento de pasar el cursor por encima
 
 ![](img.PNG)
