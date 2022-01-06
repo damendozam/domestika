@@ -3,74 +3,19 @@
 	box-sizing: border-box;
 	
 }
+a {
+	display: block;
+	width: 300px;
+	height: 300px;
+	background-size: contain;
+	background-image: url("img.png");
+}
 
-.text1
-{
+a:hover {
 	display: block;
-	font-family: 'The Nautigal', cursive;	
-}
-.text2
-{
-	display: block;
-	font-family: 'Bebas Neue', cursive;
-}
-.text3
-{
-	display: block;
-	font-family: 'Anton', sans-serif;
-}
-.text4
-{
-	display: block;
-	font-family: 'Pacifico', cursive;
-}
-.text5
-{
-	display: block;
-	font-family: 'Lobster', cursive;
-}
-.text6
-{
-	display: block;
-	font-family: 'Shizuru', cursive;
-}
-.text7
-{
-	display: block;
-	font-family: 'Permanent Marker', cursive;
-}
-.text8
-{
-	display: block;
-	font-family: 'Yuji Hentaigana Akebono', cursive;
-}
-.text9
-{
-	display: block;
-	font-family: 'Martel', serif;
-	font-size: 300%;
-}
-.text10
-{
-	display: block;
-	font-family: 'Moo Lah Lah', cursive;
-	font-size: 300%;
-}
-.text11
-{
-	display: block;
-	font-family: 'Orbitron', sans-serif;
-	font-size: 500%;
-}
-.text12
-{
-	display: block;
-	font-family: 'Special Elite', cursive;
-	font-size: 500%;
-}
-.text13
-{
-	display: block;
-	font-family: 'Press Start 2P', cursive;
-	font-size: 200%;
+	width: 300px;
+	height: 300px;
+	background-size: contain;
+	background-image: url("img.png");
+	opacity: 0.5;
 }
