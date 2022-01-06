@@ -1,4 +1,4 @@
-## PROYECTO 5.2
-Se realiza un avance de un portal web para asignar hospedaje en un hotel
+## PROYECTO 5.3
+Se realiza una inserción de una imagen que cambia su opacidad al moento de pasar el cursor por encima
 
 ![](img.PNG)
