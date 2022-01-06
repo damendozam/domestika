@@ -4,115 +4,73 @@
 	
 }
 
-.head
+.text1
 {
-	background-color: rgb(58,80,98);
-	height: 70px;
-	width: auto;
-	border-radius: 10px; 
-	padding-top: 7px;
-	font-size: 120%;
+	display: block;
+	font-family: 'The Nautigal', cursive;	
 }
-
-.head ul
+.text2
 {
-	list-style-type: none;
-	float: left;
+	display: block;
+	font-family: 'Bebas Neue', cursive;
 }
-
-.head li
+.text3
 {
-	display: inline;
+	display: block;
+	font-family: 'Anton', sans-serif;
 }
-
-.headLi
+.text4
 {
-	margin-left: 25px;
+	display: block;
+	font-family: 'Pacifico', cursive;
 }
-.head a
+.text5
 {
-	text-decoration: none;
-	color: white;
+	display: block;
+	font-family: 'Lobster', cursive;
 }
-#text
+.text6
 {
-	float: right;
-	margin-right: 20px;
-	margin-top: 2px;
-	padding-top: 12px;
-	padding-right: 20px;
-	padding-left: 5px;
-	border-radius: 10px; 
-	background-color: white;
-	color: gray;
-	height: 50px;
-	width: 150px;
+	display: block;
+	font-family: 'Shizuru', cursive;
 }
-
-#button
+.text7
 {
-	float: right;
-	margin-right: 30px;
-	margin-top: 2px;
-	padding-top: 12px;
-	padding-right: 20px;
-	padding-left: 11px;
-	border-radius: 10px; 
-	color: rgb(58,80,98);;
-	height: 50px;
-	width: 70px;
-	background-color: rgba(29,213,8,1.00);
+	display: block;
+	font-family: 'Permanent Marker', cursive;
 }
-
-.imagens
+.text8
 {
-	margin-top: 70px;
+	display: block;
+	font-family: 'Yuji Hentaigana Akebono', cursive;
 }
-.imagens span
+.text9
 {
-	float: left;
-	background-repeat: no-repeat;
-	background-image: url(imgSelect.jpg);
-	border-radius: 10px; 
-	margin-left: 50px;
-	width: 150px;
-	height: 150px;
+	display: block;
+	font-family: 'Martel', serif;
+	font-size: 300%;
 }
-
-
-.imagens ul
+.text10
 {
-	list-style-type: none;
-	float: left;
+	display: block;
+	font-family: 'Moo Lah Lah', cursive;
+	font-size: 300%;
 }
-
-.imagens li
+.text11
 {
-	display: inline;
+	display: block;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 500%;
 }
-
-span.text 
+.text12
 {
-	padding-top: 150px;
-	color: black;
+	display: block;
+	font-family: 'Special Elite', cursive;
+	font-size: 500%;
 }
-
-.get
+.text13
 {
-	margin-top: 30px;
-	margin-left: 30px;
+	display: block;
+	font-family: 'Press Start 2P', cursive;
+	font-size: 200%;
 }
-.get span
-{
-	font-size: 150%;
-	color: blue;
-}
-.get ul
-{
-	list-style-type: none;
-}
-
-
-
-
-
