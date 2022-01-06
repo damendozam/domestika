@@ -1,72 +1,118 @@
 *
 {
 	box-sizing: border-box;
-}
-html
-{
-	background-color: rgb(29,172,151);
+	
 }
 
 .head
 {
+	background-color: rgb(58,80,98);
+	height: 70px;
 	width: auto;
-	height: 80px;
+	border-radius: 10px; 
+	padding-top: 7px;
+	font-size: 120%;
+}
+
+.head ul
+{
+	list-style-type: none;
+	float: left;
+}
+
+.head li
+{
+	display: inline;
+}
+
+.headLi
+{
+	margin-left: 25px;
+}
+.head a
+{
+	text-decoration: none;
+	color: white;
+}
+#text
+{
+	float: right;
+	margin-right: 20px;
+	margin-top: 2px;
+	padding-top: 12px;
+	padding-right: 20px;
+	padding-left: 5px;
+	border-radius: 10px; 
+	background-color: white;
+	color: gray;
+	height: 50px;
+	width: 150px;
+}
+
+#button
+{
+	float: right;
+	margin-right: 30px;
+	margin-top: 2px;
+	padding-top: 12px;
+	padding-right: 20px;
+	padding-left: 11px;
+	border-radius: 10px; 
+	color: rgb(58,80,98);;
+	height: 50px;
+	width: 70px;
+	background-color: rgba(29,213,8,1.00);
+}
+
+.imagens
+{
+	margin-top: 70px;
+}
+.imagens span
+{
+	float: left;
+	background-repeat: no-repeat;
+	background-image: url(imgSelect.jpg);
+	border-radius: 10px; 
+	margin-left: 50px;
+	width: 150px;
+	height: 150px;
+}
+
+
+.imagens ul
+{
+	list-style-type: none;
+	float: left;
+}
+
+.imagens li
+{
+	display: inline;
+}
+
+span.text 
+{
+	padding-top: 150px;
+	color: black;
+}
+
+.get
+{
 	margin-top: 30px;
+	margin-left: 30px;
 }
-.sec
+.get span
 {
-	width: auto;
-	height: 160px;
-	margin-top: 10px;	
-	
+	font-size: 150%;
+	color: blue;
+}
+.get ul
+{
+	list-style-type: none;
 }
 
 
-.head span
-{
-	display: block;
-	background-color: rgb(58,80,98);
-	height: 75px;
-}
 
 
-.sec span
-{
-	display: block;
-	background-color: rgb(58,80,98);
-	position: relative;
-	left: 0px;
-	right: 0px;	
-	height: 155px;
-}
 
-#sec1 span#box1
-{
-	display: block;
-	float: left;
-	width: 48%;
-	height: 154px;
-}
-
-#sec1 span#box2
-{
-	display: block;
-	float: right;
-	width: 48%;
-	height: 154px;
-}
-#sec2 span#box1
-{
-	display: block;
-	float: left;
-	width: 48%;
-	height: 154px;
-}
-
-#sec2 span#box2
-{
-	display: block;
-	float: right;
-	width: 48%;
-	height: 154px;
-}
