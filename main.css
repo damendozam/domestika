@@ -4,8 +4,17 @@
 	
 }
 
-h1
+.tarjet
 {
-	color:white;
-	background-color: red;
+	width: 50px;
+	height: 50px;
+	border: 2px solid black;
+	border-radius: 10px;
+	padding: 7px 12px 12px 15px;
+	font-size: 30px;
+}
+
+.tarjet.show
+{
+	transform: rotateY(-180deg);
 }
